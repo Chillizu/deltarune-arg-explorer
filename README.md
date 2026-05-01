@@ -39,7 +39,7 @@ Deltarune.com 官方网站的深度代码级分析报告。覆盖 88 个 URL、5
 
 直接在浏览器打开 `deltarune-arg-simple.html`。需要 `screenshots/` 目录配合显示截图。
 
-[Cloudflare Pages 在线版](https://deltarune-arg-explorer.pages.dev)
+[Cloudflare Pages 在线版](https://deltarune-arg-explorer.pages.dev) — 含300+截图
 
 ## 🔧 技术栈
 
