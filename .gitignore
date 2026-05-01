@@ -1,0 +1,13 @@
+# Large binary assets (keep out of git)
+screenshots/
+audio/
+spectrograms/
+page-analysis/
+
+# Optional raw data
+pages-data/
+snapshots/
+investigation/
+
+# Node
+node_modules/

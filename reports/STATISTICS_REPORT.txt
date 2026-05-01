@@ -1,0 +1,271 @@
+======================================================================
+  DELTARUNE.COM ARG 全面探索 - 完整统计报告
+  Generated: 2026-04-29
+======================================================================
+
+📊 核心指标
+  总访问页面数: 85
+  ✅ 状态200 (有内容): 54
+  🐕 状态404 (Dogcheck): 30
+  ❌ 访问错误: 1
+  📸 总截图数: 131
+
+----------------------------------------------------------------------
+🌟 有内容的秘密页面列表 (Status 200)
+----------------------------------------------------------------------
+   1. /                                                 
+      标题: "DELTARUNE for Nintendo Switch, PC / Mac, and PlayStation"
+      链接:14 图片:50 交互:1
+
+   2. /blink/                                           
+      标题: "What?"
+      链接:0 图片:2 交互:0
+
+   3. /bluecircle/                                      
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:1 图片:2 交互:0
+
+   4. /catpetterz/                                      
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:2 图片:3 交互:1
+
+   5. /chair/                                           
+      标题: "But what if it could..."
+      链接:0 图片:3 交互:0
+
+   6. /changingroom/                                    
+      标题: "(Private...)"
+      链接:2 图片:5 交互:0
+
+   7. /chapter1/                                        
+      标题: "…"
+      链接:0 图片:0 交互:0
+
+   8. /chapter2/                                        
+      标题: "…"
+      链接:0 图片:0 交互:0
+
+   9. /chapter3                                         
+      标题: "…"
+      链接:0 图片:0 交互:0
+
+  10. /chapter3/                                        
+      标题: "…"
+      链接:0 图片:0 交互:0
+
+  11. /chapter4/                                        
+      标题: "…"
+      链接:1 图片:0 交互:0
+
+  12. /chapter4/message/                                
+      标题: "…"
+      链接:27 图片:0 交互:0
+
+  13. /chapter4/thankyou/                               
+      标题: "How long did it take her to smile?"
+      链接:0 图片:0 交互:0
+
+  14. /chapter5/                                        
+      标题: "back"
+      链接:4 图片:0 交互:0
+
+  15. /code/                                            
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:4 图片:3 交互:1
+
+  16. /code/comments/                                   
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:2 图片:32 交互:1
+
+  17. /d_a_m_n_y_o_u_t_e_n_n_a/                         
+      标题: "DELETE THIS !"
+      链接:2 图片:4 交互:0
+
+  18. /december/                                        
+      标题: "HTTP 404 Not Found"
+      链接:3 图片:3 交互:0
+
+  19. /egg                                              
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:2 图片:2 交互:0
+
+  20. /egg/                                             
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:2 图片:2 交互:0
+
+  21. /help                                             
+      标题: "Help | DELTARUNE"
+      链接:10 图片:9 交互:0
+
+  22. /icee/                                            
+      标题: "Have you seen him?"
+      链接:1 图片:1 交互:0
+
+  23. /icepalace_glaceir/                               
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:2 图片:3 交互:0
+
+  24. /kris_dreemurr_kris/                              
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:0 图片:4 交互:1
+
+  25. /lancer/                                          
+      标题: "You're the Annoying Now Dog!"
+      链接:0 图片:1 交互:0
+
+  26. /lostwheretheforestwouldgrow/                     
+      标题: "ROOTS"
+      链接:1 图片:1 交互:0
+
+  27. /man/                                             
+      标题: "* (Behind the tree.)."
+      链接:1 图片:1 交互:0
+
+  28. /newsletter                                       
+      标题: "DELTARUNE / UNDERTALE Mailing List"
+      链接:4 图片:4 交互:0
+
+  29. /rain                                             
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:1 图片:2 交互:0
+
+  30. /rain/                                            
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:1 图片:2 交互:0
+
+  31. /ramb                                             
+      标题: "Where could this be?"
+      链接:4 图片:2 交互:1
+
+  32. /ramb/                                            
+      标题: "Where could this be?"
+      链接:4 图片:2 交互:1
+
+  33. /rarecats                                         
+      标题: "0 points"
+      链接:1 图片:2 交互:0
+
+  34. /rarecats/                                        
+      标题: "0 points"
+      链接:1 图片:2 交互:0
+
+  35. /romb/                                            
+      标题: "No one will shed a tear for him."
+      链接:0 图片:2 交互:3
+
+  36. /secret                                           
+      标题: "What's behind door number one?"
+      链接:0 图片:36 交互:16
+
+  37. /secretpipis/                                     
+      标题: "You lost!"
+      链接:0 图片:1 交互:0
+
+  38. /shadowmen/                                       
+      标题: "You're the Annoying Now Dog!"
+      链接:1 图片:0 交互:0
+
+  39. /sighting/                                        
+      标题: "SIGHTING 1997"
+      链接:0 图片:2 交互:0
+
+  40. /sweepstakes/                                     
+      标题: "SPAMTON SWEEPSTAKES!!!"
+      链接:73 图片:175 交互:67
+
+  41. /sweepstakes/credits                              
+      标题: "[From The Classics You've Come To Expect]!!"
+      链接:0 图片:3 交互:0
+
+  42. /sweepstakes/silence/                             
+      标题: "˙"
+      链接:61 图片:137 交互:60
+
+  43. /the_n3w3st_g1rl_g1rl/                            
+      标题: "Welcome to holidaygirl1225's game secrets, glitches, and theories blog!"
+      链接:0 图片:3 交互:0
+
+  44. /thepoorchildren/                                 
+      标题: "Therapy"
+      链接:1 图片:1 交互:0
+
+  45. /tv/                                              
+      标题: "* It's off."
+      链接:0 图片:1 交互:0
+
+  46. /update-092020/                                   
+      标题: "DELTARUNE Status Update - Sept 2020"
+      链接:3 图片:6 交互:0
+
+  47. /update-092021/                                   
+      标题: "DELTARUNE Status Update - Sept 2021"
+      链接:3 图片:2 交互:0
+
+  48. /update-092022/                                   
+      标题: "DELTARUNE Status Update - Sept 2022"
+      链接:8 图片:13 交互:0
+
+  49. /weather/                                         
+      标题: "You're the Annoying Now Dog!"
+      链接:0 图片:1 交互:0
+
+  50. /window/                                          
+      标题: "Aren't you forgetting something?"
+      链接:51 图片:51 交互:0
+
+  51. /windows                                          
+      标题: "Aren't you forgetting something?"
+      链接:51 图片:51 交互:0
+
+  52. /windows/                                         
+      标题: "Aren't you forgetting something?"
+      链接:51 图片:51 交互:0
+
+----------------------------------------------------------------------
+🧩 关键ARG谜题与发现
+----------------------------------------------------------------------
+  /secret
+    - 16个衣柜(wardrobeA-P)，点击wardrobeB后标题变为"You won!"
+    - 每个衣柜都有对应截图(secret_after_X.png)
+
+  /sweepstakes/
+    - Spamton Sweepstakes主要ARG枢纽
+    - 73个内部链接，175张图片，67个交互元素
+    - 包含大量拍卖品页面和隐藏链接
+
+  /sweepstakes/silence/
+    - 替代结局路径
+    - 61个链接，137张图片
+
+  /windows/ & /window/
+    - 51个排列组合URL谜题
+    - lost/where/the/forest/would/grow 的排列组合
+    - 正确路径: /lostwheretheforestwouldgrow/ (显示"ROOTS")
+
+  /rarecats/
+    - 可玩游戏，当前显示"0 points"
+
+  /chapter4/message/
+    - 27个链接的复杂页面
+
+  其他神秘页面:
+    /d_a_m_n_y_o_u_t_e_n_n_a/ - "DELETE THIS !"
+    /changingroom/ - "(Private...)"
+    /tv/ - "* It's off."
+    /sighting/ - "SIGHTING 1997"
+    /blink/ - "What?"
+    /ramb/ - "Where could this be?"
+    /shadowmen/ - "You're the Annoying Now Dog!"
+    /lancer/ - "You're the Annoying Now Dog!"
+    /weather/ - "You're the Annoying Now Dog!"
+
+----------------------------------------------------------------------
+📁 输出文件
+----------------------------------------------------------------------
+  报告文档: /home/Chillizu/Projects/Deltarune/deltarune-arg-explore/deltarune-arg-report.md
+  统计数据: /home/Chillizu/Projects/Deltarune/deltarune-arg-explore/pages-data/all-pages.json
+  交互测试: /home/Chillizu/Projects/Deltarune/deltarune-arg-explore/pages-data/secret-interactions.json
+  截图目录: /home/Chillizu/Projects/Deltarune/deltarune-arg-explore/screenshots/
+  截图数量: 131 张
+
+======================================================================
